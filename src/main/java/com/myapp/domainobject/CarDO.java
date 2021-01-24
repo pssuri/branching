@@ -1,5 +1,8 @@
 package com.myapp.domainobject;
 
+/*
+ * Another feature1 comment
+ */
 import com.myapp.domainvalue.EngineType;
 import org.springframework.format.annotation.DateTimeFormat;
 
