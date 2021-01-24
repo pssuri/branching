@@ -4,6 +4,10 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.myapp.domainvalue.EngineType;
 
+/*
+ * feature2: Sample comment 
+ * DataTransferObjects: Objects which are used for outside communication via the API
+ */
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class CarDTO {
 
