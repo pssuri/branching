@@ -6,6 +6,10 @@ import org.apache.juli.logging.Log;
 import org.apache.juli.logging.LogFactory;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
+
+/*
+ * hotFix comment
+ */
 public class LoggingInterceptor extends HandlerInterceptorAdapter
 {
 
